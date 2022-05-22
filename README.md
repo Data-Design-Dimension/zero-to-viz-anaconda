@@ -1,20 +1,17 @@
-# 
+# 5 Routes to Go From Zero to Viz in Data Science
 
 # alt title: Around the (Visualization) World with Anaconda 
 
-**Intention**: work for an [Anaconda Maker Blog](https://www.anaconda.com/blog/topic/makers) submission
+## Exploring Visualization Tools in the Anaconda Platform
 
-### Output
+This notebook is accompanying a post on the [Anaconda Maker Blog](https://www.anaconda.com/blog/topic/makers) slated to publish in May 2022.
 
+To interact with the work and code, run the Jupyter Notebook file __zero_to_viz_anaconda.ipynb__. 
 
-<<<<<<< HEAD
-To interact with the work and code, run the Jupyter Notebook file zero_to_viz_anaconda.ipynb. 
-
-Or jump to view the resulting visualizations and analysis by opening the HTML (.html) file which will open in your web browser or the corresponding PDF. Feel free to [email me](mailto:kathryn@dadeda.design). 
 
 ### Acknowledgments
-Thank you to Maria Genovese, Content Marketing Manager for Anaconda for being flexible with me as I developed this blog post. Thank you to my colleagues and friends for offering to review my draft, Adam Schroeder and 	
-Tolgahan Cepel.
+Thank you to Maria Genovese, Content Marketing Manager for Anaconda for being flexible with me as I developed this blog post. <br>
+Thank you to my colleagues and friends for offering to review my draft, Adam Schroeder and Tolgahan Cepel, and for being my logic check. You caught omissions and clarifications that fixing has helped make this easier to understand and jump to resources to learn more.
 
 ### General Disclaimer
 This work is completed under the limited liability company Data, Design & Daughters LLC doing business as Data Design Dimension by Kathryn Hurchla with all rights reserved.
