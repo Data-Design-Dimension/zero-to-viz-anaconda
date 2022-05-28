@@ -4,7 +4,7 @@
 
 ## Exploring Visualization Tools in the Anaconda Platform
 
-This notebook is accompanying a post on the [Anaconda Maker Blog](https://www.anaconda.com/blog/topic/makers) slated to publish in May 2022.
+This notebook is accompanying a [post](https://www.anaconda.com/blog/zero-to-viz) on the [Anaconda Maker Blog](https://www.anaconda.com/blog/topic/makers) published in May 2022.
 
 To interact with the work and code, run the Jupyter Notebook file __zero_to_viz_anaconda.ipynb__. 
 
